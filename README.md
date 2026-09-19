@@ -201,7 +201,9 @@ Bug reports and pull requests are welcome at <https://github.com/noxdea/electra>
 
 ## Name
 
-“Electra” is the engraving tool that cuts precise lines into metal: this library similarly engraves SPIR-V instructions. The RubyGems name is `electra`; the Ruby namespace is `Electra`.
+Electra is a named star in the Pleiades. This library uses the name for its
+precise SPIR-V instruction engraving. The RubyGems name is `electra`; the Ruby
+namespace is `Electra`.
 
 ## License
 
