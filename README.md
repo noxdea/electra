@@ -25,6 +25,8 @@
 
 Electra builds the small shaders a UI renderer needs directly from Ruby, without running GLSL compilers or loading native bindings. Use it when a Vulkan application needs to ship shader construction as Ruby source. It is not a GLSL compiler, optimizer, or complete SPIR-V semantic validator.
 
+![Electra shader output](docs/media/screenshot.png)
+
 ## Features
 
 - Typed vertex and fragment shader DSL for UI renderers
