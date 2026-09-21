@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.1.1 — 2026-09-21
 
 - Add a deterministic shader-output demo image and regeneration task.
 
